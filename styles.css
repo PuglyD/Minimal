@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.header #logo-container{
+    width: 50vw;
+}
+
+.header #menu-container{
+    width: 50vw;
+}
+
+.calendar{
+    background-color: grey;
+    width: 80rem;
+    height: 100rem;
+    margin: 35px auto;
+    display: flex;
+}
+
+
+
